@@ -84,7 +84,7 @@ A Postman collection named node_backend is provided for testing.
 🔽 How to Use:
 1. Open Postman
 2. Click Import > File
-3. Select the provided file: .postman_collection.json
+3. Select the provided file: node_backend.postman_collection.json
 4. Use pre-configured requests to test the API
 
 ## 🧯 Error Handling
